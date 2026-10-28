@@ -59,13 +59,13 @@ My engineering approach combines:
 
 ---
 
-### 🛠️ Technologies & Methods
+### 🛠️ Tech Stack
 
-- **Languages:** Python · TypeScript
-- **Backend & Data Engineering:** FastAPI · Node.js · Pandas · GeoPandas · Pydantic v2 · SQLite · PostgreSQL
-- **AI Systems & Orchestration:** FastMCP · Gemini / Vertex AI SDK · Structured DTO IR · Agentic OODA Workflows
-- **Document & Spatial Engines:** PyMuPDF · pikepdf · Docling · RapidOCR · ExifTool · qpdf · NetworkX · Shapely · MapLibre GL JS
-- **Engineering Methods:** Schema Profiling · Evidence-Based Mapping · Invariant & Contract Verification · Bayesian Belief Updates · Constrained Path Planning ($A^*$) · Simulation-Driven Decision Support
+- **Languages:** Python, TypeScript, Java, C++, SQL
+- **AI & Systems Orchestration:** FastMCP, LangGraph, Vertex AI SDK, Gemini API， Agentic OODA Workflow
+- **Backend & APIs:** FastAPI, Node.js, Express.js, PyTest
+- **Databases & Cloud Data:** PostgreSQL (Supabase), Firebase, SQLite, MySQL
+- **Libraries & Tools:** OpenCV,, scikit-learn, Pandas, numpy, Pydantic v2, Git, Docker, Vercel, Railway
 
 ---
 
